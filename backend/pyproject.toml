@@ -8,5 +8,5 @@ dependencies = [
     "assistant-stream>=0.0.30",
     "fastapi>=0.117.1",
     "pydantic-ai>=1.0.10",
-    "python-dotenv>=1.1.1",
+    "python-dotenv>=1.2.2",
 ]
